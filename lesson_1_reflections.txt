@@ -1,0 +1,28 @@
+1- 	
+	Seeing differences line by line helps is helpfull when some code crashes and you want to compare it with a previous version to see what did you change and what may have been the cause of the failure
+
+2- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	By having a series of versions you also get a series of steps you took to accomplish the final result, so, if you want create a similar file (totally or partially implemented) you have a series of steps 
+	chronologicaly ordered
+
+3 - What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Pros: you can decide when its a good time to commit, saving functional blocks of code, and not imcomplete fuctions. 
+	Cons: human error, you might forget to commit, commit too often or not commint enough
+
+4- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Maybe because Git is built for a coding eviroment where multiple files are connected, on the other hand, in google docs people usually works on a single file and it does not make sense to save multiple files as one commmit
+
+5- How can you use the commands git log and git diff to view the history of files?
+
+	By checking 2 different commits I can view how the file has been updated
+
+6 - How might using version control make you more confident to make changes that could break something?
+
+	It could be really helpful when some code file runs with a bug and to find it I might have to go over a lot a code lines, instead this may help me get to the point where the bug was introduced and let me know which I change so I can checkout only the changes and not wat remains the same
+
+7- Now that you have your workspace set up, what do you want to try using Git for?
+
+	I recently finished the android basics nanodegree and I was doing manual version control which is not very effective, so I want to use git to help me code android apps

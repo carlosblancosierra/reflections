@@ -1,0 +1,7 @@
+1 - What happens when you initialize a repository? Why do you need to do it?
+
+It enables git, so you can start committing, you have to do this when want to start a version-control folder which has not been initialized and contains no commits.
+
+2- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is the place where decide what are you going to commit, the value is that you can add some files, work on them and when you finished, yo commit.
