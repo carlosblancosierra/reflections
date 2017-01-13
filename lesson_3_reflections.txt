@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+Almost Every time, unless special circumstances, if it is online you can check it wherever you have an internet connection.
