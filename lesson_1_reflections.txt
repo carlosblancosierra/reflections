@@ -25,4 +25,3 @@
 
 7- Now that you have your workspace set up, what do you want to try using Git for?
 
-	I recently finished the android basics nanodegree and I was doing manual version control which is not very effective, so I want to use git to help me code android apps

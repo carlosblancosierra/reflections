@@ -5,3 +5,27 @@ It enables git, so you can start committing, you have to do this when want to st
 2- How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is the place where decide what are you going to commit, the value is that you can add some files, work on them and when you finished, yo commit.
+
+3- How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git diff —-staged to check the differences between the files you are about to commit and the last commit
+
+4- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When trying a new feature to the program which Im not sure i want to implement
+
+5- How do the diagrams help you visualize the branch structure?
+
+They help because the organize the branches in a visual manner
+
+6- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging to branches results in the addition of any lines that weren't in the commit that split the branches, and deleting the lines that were in the split commit but were deleted in any of the branches
+
+7- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging has te benefit that you don’t have to go over every line of new code, because everything that is new and its only in one commit gets added, however, there may be conflicts because some code may appear to new and its may be that the other commit has it but on a different manner (like a method).
+
+manual merging has the advantage of showing the lines of code that has conflicts and letting you choose which ones are correct, however, this may lead to a lot of work if there are too many conflicts that git does not understand but for the person who wrote the code are pretty obvious.
+
+
