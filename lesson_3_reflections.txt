@@ -5,3 +5,10 @@ Almost Every time, unless special circumstances, if it is online you can check i
 2- Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because you might pull something you don’t want to pull yet, like a change from another developer, or maybe you are testing something out and don’t want files to be updated, or maybe by pulling everything you might create un wanted conflicts
+
+3- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+a clone is a copy of a repository, either local or remote
+a fork is also a clone of a repository but maintains a link to the original one and its author
+a branch is a series of commits that may or may not be the master one in a project
+
