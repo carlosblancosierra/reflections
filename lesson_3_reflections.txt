@@ -16,4 +16,8 @@ a branch is a series of commits that may or may not be the master one in a proje
 
 Is useful because when fetching the remote state you don’t need to load every commit again
 
+5- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would create a project, them each team member would have a series of tasks they would develop in their own branches, and as everyone finishes tasks they would be merged into the master branch. This should be easier if each team member fully understand git, because doing this manually could represent a great and messy task.
+
 
