@@ -20,4 +20,8 @@ Is useful because when fetching the remote state you don’t need to load every 
 
 I would create a project, them each team member would have a series of tasks they would develop in their own branches, and as everyone finishes tasks they would be merged into the master branch. This should be easier if each team member fully understand git, because doing this manually could represent a great and messy task.
 
+6- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I may want to do this when I want to protect the integrity of the master branch, or build a new feature progressively and don’t want this small steps to appear in the master branch which may be an app which is already being used maybe by some costumers or other developers who may be confused by not fully implemented features.
+
 
