@@ -12,3 +12,8 @@ a clone is a copy of a repository, either local or remote
 a fork is also a clone of a repository but maintains a link to the original one and its author
 a branch is a series of commits that may or may not be the master one in a project
 
+4- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Is useful because when fetching the remote state you don’t need to load every commit again
+
+
